@@ -1,16 +1,5 @@
-# pcs_7
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#  Практическая работа №7
+##  Лисичкин Виктор Евгеньевич ЭФБО-05-22
+![image](https://github.com/user-attachments/assets/8483e8d5-3a85-4441-a03a-35ceb93ed367)
+![image](https://github.com/user-attachments/assets/5424f894-1272-42e1-b9ed-880270d6f422)
+![image](https://github.com/user-attachments/assets/e1231e24-2ebb-4663-a680-b0125a260e14)
